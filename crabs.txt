@@ -1,0 +1,15 @@
+Crabs
+  version 1.0
+by Koala
+University of California at Berkeley
+
+files:
+  crabs.txt       - this document
+  crabs.exe       - the crabs program
+  crabs.dll       - optional DLL that allows the "unmashing" option
+  src (directory) - the complete source code
+
+The unmashing option aids refreshing so that you will not develop as much
+mashed crab from moving windows around.
+
+http://www.dreamwater.net/tech/koala/
