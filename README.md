@@ -4,6 +4,8 @@ Windows tray program inspired by an Atari ST application of the same name.
 This project was made in 2001 to try out tray functionality, play with Windows
 hooks, and build a Windows application in Visual C++ without all the MFC baggage.
 
+![](https://github.com/jdonald/crabs/raw/master/crabs_screenshot.jpg)
+
 ## Building
 
 Both the exe and optional DLL were built in Visual Studio 6.0. It would
