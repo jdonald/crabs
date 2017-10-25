@@ -11,5 +11,3 @@ files:
 
 The unmashing option aids refreshing so that you will not develop as much
 mashed crab from moving windows around.
-
-http://www.dreamwater.net/tech/koala/
